@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>Anthill.Common.Services.Contracts</id>
+        <version>1.0.0.0</version>
+        <title>Anthill.Common.Services.Contracts</title>
+        <authors>Alex Kosotukhin</authors>
+        <owners></owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Anthill Common Services Contracts library</description>
+        <releaseNotes></releaseNotes>
+        <copyright>Copyright 2016</copyright>
+        <tags>Anthill</tags>
+    </metadata>
+    <files>
+        <file src="bin\Release\Anthill.Common.Services.Contracts.dll" target="lib"></file>
+    </files>
+</package>

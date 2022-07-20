@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>Anthill.Common.Extensions</id>
+        <version>1.0.0.0</version>
+        <title>Anthill.Common.Extensions</title>
+        <authors>Alex Kosotukhin</authors>
+        <owners></owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Anthill Common Extensions library</description>
+        <releaseNotes></releaseNotes>
+        <copyright>Copyright 2016</copyright>
+        <tags>Anthill</tags>
+    </metadata>
+    <files>
+        <file src="bin\Release\Anthill.Common.Extensions.dll" target="lib"></file>
+    </files>
+</package>

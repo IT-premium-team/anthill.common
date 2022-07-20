@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>Anthill.Common.Data.Contracts</id>
+        <version>1.0.0.0</version>
+        <title>Anthill.Common.Data.Contracts</title>
+        <authors>Alex Kosotukhin</authors>
+        <owners></owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Anthill Common Data Contracts library</description>
+        <releaseNotes></releaseNotes>
+        <copyright>Copyright 2016</copyright>
+        <tags>Anthill</tags>
+    </metadata>
+    <files>
+        <file src="bin\Release\Anthill.Common.Data.Contracts.dll" target="lib"></file>
+        <file src="bin\Release\Anthill.Common.Data.Contracts.pdb" target="lib"></file>
+    </files>
+</package>

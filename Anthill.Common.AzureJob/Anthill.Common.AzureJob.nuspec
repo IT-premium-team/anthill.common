@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>Anthill.Common.AzureJob</id>
+        <version>1.0.0.0</version>
+        <title>Anthill.Common.AzureJob</title>
+        <authors>Alex Kosotukhin</authors>
+        <owners></owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Anthill Common AzureJob library</description>
+        <releaseNotes></releaseNotes>
+        <copyright>Copyright 2016</copyright>
+        <tags>Anthill</tags>
+        <dependencies>
+            <dependency id="CommonServiceLocator" version="1.3"  />
+            <dependency id="Microsoft.Azure.WebJobs" version="1.1.2"  />
+            <dependency id="Microsoft.Azure.WebJobs.Core" version="1.1.2"  />
+            <dependency id="Microsoft.Data.Edm" version="5.6.2"  />
+            <dependency id="Microsoft.Data.OData" version="5.6.2"  />
+            <dependency id="Microsoft.Data.Services.Client" version="5.6.2"  />
+            <dependency id="Microsoft.WindowsAzure.ConfigurationManager" version="1.8.0.0"  />
+            <dependency id="Newtonsoft.Json" version="6.0.8"  />
+            <dependency id="System.Spatial" version="5.6.2"  />
+            <dependency id="Unity" version="4.0.1"  />
+            <dependency id="WindowsAzure.Storage" version="4.3.0"  />
+
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="bin\Release\Anthill.Common.AzureJob.dll" target="lib"></file>
+    </files>
+</package>
